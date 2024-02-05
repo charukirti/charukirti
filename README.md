@@ -37,7 +37,7 @@
 ###
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=charukirti&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=charukirti&theme=synthwave&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) <br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=charukirti&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=charukirti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
