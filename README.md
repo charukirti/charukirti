@@ -41,6 +41,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=charukirti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=charukirti&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=charukirti&icon=0&color=0)](https://visitcount.itsvg.in) [![wakatime](https://wakatime.com/badge/user/c4b3ce57-9b60-4ad2-b899-f55a8b538a6b.svg)](https://wakatime.com/@c4b3ce57-9b60-4ad2-b899-f55a8b538a6b)
 
 
