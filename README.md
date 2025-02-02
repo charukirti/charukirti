@@ -34,6 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
+[![Peerlist](https://github-readme-badge.peerlist.io/api/charukirticc?style=social)](https://peerlist.io/charukirticc)
+
 ###
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=charukirti&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
